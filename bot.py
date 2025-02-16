@@ -8,7 +8,7 @@ import asyncio
 
 logging.basicConfig(level=logging.INFO)
 
-API_TOKEN = '7765583170:AAFTkKyFkr49khxXhW7w8dgS-VdWjTMbbz0'
+API_TOKEN = 'token_tg'
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
